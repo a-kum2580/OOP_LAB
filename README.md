@@ -16,7 +16,7 @@ Features:
     Supports parking different types of vehicles (Car or Truck) in a Garage and printing their descriptions.
     Example usage is provided in the GarageTester.py file.
 
-Running the Project:
+Running the Lab:
 
     Clone the repository.
     Ensure all the Python files are in the same directory.
